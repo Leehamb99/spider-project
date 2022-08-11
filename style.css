@@ -1,0 +1,42 @@
+.bg-color {
+    background-color: #222;
+}
+
+.home-container {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    min-height: 60vh;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .info {
+    text-align: center;
+  }
+
+  .white-text {
+    color: white;
+    font-family: Helvetica, sans-serif;
+  }
+
+  .nav a:hover {
+    background-color: white;
+    color:#222;
+    border-style: solid;
+    border-color: transparent;
+    border-radius: 10px 10px 10px 10px;
+  }
+
+  img {
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+}
+

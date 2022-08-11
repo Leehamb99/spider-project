@@ -37,3 +37,14 @@
 
 }
 
+.nav{
+   background-color: #222;
+   padding: 10px;
+}
+.nav a:hover {
+    background-color: white;
+    color:#222;
+    border-style: solid;
+    border-color: transparent;
+    border-radius: 10px 10px 10px 10px;
+  }
